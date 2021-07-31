@@ -6,7 +6,7 @@
 
 <!-- Description -->
 
-Quid Pro Quo approaches with Pretexting and Impersonation insider threat vectors
+Quid Pro Quo approaches with Pretexting and Impersonation _insider_ threat vectors
 
 A frequently overlooked factor in information security is _HUMAN_, and more specifically the manipulation of a person to compromise information security.
 
