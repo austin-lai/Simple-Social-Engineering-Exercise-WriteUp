@@ -176,7 +176,7 @@ Crafting pretexting and impersonation background as IT Infra Intern to install s
 
 ### Script Used in this exercise
 
-Kindly refer to the [Social Engineering Scirpt](#social-engineering.bat) for detail information of the script.
+Kindly refer to the [Social Engineering Scirpt](social-engineering.bat) for detail information of the script.
 
 <br />
 
