@@ -160,7 +160,7 @@ Crafting pretexting and impersonation background as IT Infra Intern to install s
 
     - Users behaviour
 
-- Endpoint Checking – Effectiveness of current [ defense | detect ] solution
+- Endpoint Checking – Effectiveness of current \[ defense \| detect \] solution
 
     - Personal USB --- read only
 
