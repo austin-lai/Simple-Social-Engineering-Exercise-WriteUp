@@ -20,23 +20,23 @@ This exercise focuses on making the risks of "social engineering" transparent an
 
 - [Simple Social Engineering Exercise WriteUp](#simple-social-engineering-exercise-writeup)
     - [Table of Contents](#table-of-contents)
-    - [GOALS OF THIS EXERCISE](#goals-of-this-exercise)
+    - [Goals of this exercise](#goals-of-this-exercise)
     - [What is Social Engineering](#what-is-social-engineering)
     - [What are the threats to organizations](#what-are-the-threats-to-organizations)
         - [Pretexting and Impersonation](#pretexting-and-impersonation)
         - [Baiting](#baiting)
     - [Countermeasures can be taken to mitigate the risk of social engineering](#countermeasures-can-be-taken-to-mitigate-the-risk-of-social-engineering)
-    - [EXERCISE APPROACHES & VECTORS](#exercise-approaches--vectors)
+    - [Social Engineering Exercise Approaches & Vectors](#social-engineering-exercise-approaches--vectors)
         - [Create Pretexting and Impersonation attacker background](#create-pretexting-and-impersonation-attacker-background)
         - [Information to be gain after the successful attempts](#information-to-be-gain-after-the-successful-attempts)
         - [Script Used in this exercise](#script-used-in-this-exercise)
-        - [RESULT OF THIS EXERCISE](#result-of-this-exercise)
+        - [Result of this exercise](#result-of-this-exercise)
 
 <!-- /TOC -->
 
 <br />
 
-## GOALS OF THIS EXERCISE
+## Goals of this exercise
 
 This exercise focuses on social engineering and addresses the following questions:
 
@@ -132,7 +132,7 @@ Use the following countermeasures to ensure that you do not fall victim to a pre
 
 <br />
 
-## EXERCISE APPROACHES & VECTORS
+## Social Engineering Exercise Approaches & Vectors
 
 We are using Quid Pro Quo approaches with Pretexting and Impersonation threat vectors in this exercise.
 
@@ -180,7 +180,7 @@ Kindly refer to the [Social Engineering Scirpt](social-engineering.bat) for deta
 
 <br />
 
-### RESULT OF THIS EXERCISE
+### Result of this exercise
 
 --- OMITTED ---
 
